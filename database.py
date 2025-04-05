@@ -1,4 +1,3 @@
-# database.py
 from pymongo import MongoClient
 
 # Initialize without connecting
